@@ -16,4 +16,8 @@
 5. Press `y`.
 6. After pressing `y`, you will see the testing window of gnuplot, where a beautiful sin curve is already plotted.
    ![ss](../ss/Screenshot(40).png)
-7. Closs all the windows of cmd and gnuplot. 
+7. Closs all the windows of cmd and gnuplot.
+8. [Download test_code.cpp](https://raw.githubusercontent.com/ismam3/gnu_plot_fix_naoe6/main/test_code.cpp) from here.
+9. Open the code in Codeblocks.
+10. Build and run the code.
+11. If you see the result, then enjoy codingggggg. 
