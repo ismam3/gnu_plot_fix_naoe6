@@ -5,4 +5,4 @@
 ![ss](../ss/image.png)
 2. Type `gnuplot` in the box and press **Enter**.
 3. If you see the following window, this means your device has gnuplot. Then Proceed to section-2. Otherwise proceed to section-3. 
-![ss](../ss/Screenshot (38).png)
+![ss](../ss/Screenshot(38).png)
