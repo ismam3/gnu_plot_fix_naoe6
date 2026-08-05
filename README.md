@@ -9,4 +9,6 @@
 
 ## section-2 (Run the batch file)
 1. Close all the windows of cmd, codeblocks or any other kind of programming stuffs.
-2. Download
+2. [Download gnuplot-env-fix.bat](https://raw.githubusercontent.com/ismam3/gnu_plot_fix_naoe6/main/gnuplot-env-fix.bat) from here.
+3. run the `.bat` file.
+4. You will see the following window, then type y. 
