@@ -14,4 +14,6 @@
 4. You will see the following window,
    ![ss](../ss/Screenshot(39).png)
 5. Press `y`.
-6. After pressing `y`, you will see the testing window of gnuplot, where a beautiful sin curve is already plotted. 
+6. After pressing `y`, you will see the testing window of gnuplot, where a beautiful sin curve is already plotted.
+   ![ss](../ss/Screenshot(40).png)
+7. Closs all the windows of cmd and gnuplot. 
