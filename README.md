@@ -4,7 +4,7 @@
 1. Press <kbd>Win</kbd> + <kbd>R</kbd> to open the Run dialog. You will see a window in the bottom left corner of your screen, like the following, 
 ![ss](../ss/image.png)
 2. Type `gnuplot` in the box and press **Enter**.
-3. If you see the following window, this means your device has gnuplot. Then Proceed to section-2. Otherwise proceed to section-3. 
+3. If you see the following window, this means your device has gnuplot. Then Proceed to section-2. Otherwise install gnuplot first then follow section-2. 
 ![ss](../ss/Screenshot(38).png)
 
 ## Section-2 (Run the batch file)
@@ -22,6 +22,3 @@
 10. Build and run the code.
 11. If you see the result, then enjoy codingggggg.
        ![ss](../ss/Screenshot(41).png)
-
-## Section - 3 (Installing GNU plot)
-If GNU plot isn't installed in your device, 
